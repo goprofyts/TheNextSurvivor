@@ -138,6 +138,12 @@
 
 
 
+
+
+
+
+
+
 #ext_menu-m .navbar-toggler {
   color: #000;
 }
@@ -173,5 +179,30 @@
 }
 #content5-r P {
   text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-t .mbr-section-title {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-t P {
+  text-align: center;
+}
+#features1-s P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-u .mbr-section-title {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-u P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#features1-v H4 {
+  font-family: 'Noto Sans', sans-serif;
+}
+#features1-v .btn {
   font-family: 'Noto Sans', sans-serif;
 }
