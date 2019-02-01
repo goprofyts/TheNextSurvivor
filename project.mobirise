@@ -17,8 +17,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 19,
-    "versionPublish": "4.9.1"
+    "uniqCompNum": 22,
+    "versionPublish": "4.9.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -650,8 +651,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "14",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/web-design-1953-1920x1254.jpg",
             "parallax": true,
@@ -687,13 +688,13 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p>GET THE NEXT SURVIVOR NOW!</p>",
+          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p><b>GET THE NEXT SURVIVOR NOW!</b></p><p><b>LIMITED-TIME 75% OFF!</b><br><i>Original Price: $60.00<br></i><b>Current Price: $14.95 ONLY!</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://2.mylbb.pay.clickbank.net\" data-toolbar=\"-mbrBtnMove\">GET MY COPY NOW</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-i",
           "_styles": {
@@ -703,6 +704,145 @@
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
               "font-size": "24px"
+            },
+            ".btn": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "60 DAYS MONEY BACK GUARANTEE\n",
+          "caption": "<p>YOUR PURCHASE IS PROTECTED BY A 60 DAYS MONEY BACK GUARANTEE!\r<br><span style=\"font-size: 1.25rem;\">DIDN'T LIKE THE NEXT SURVIVOR GUIDE? GET A FULL REFUND NO QUESTIONS ASKED.&nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1d1d1d",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT US",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "form": {
+            "action": "thenextsurvivor@gmail.com",
+            "alerts": {
+              "success": "Thanks for contacting us! Soon you will receive an answer if needed!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-k",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>© Copyright Next Survivor  \n</p><p>ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales Inc., a Delaware corporation located at 1444 S. Entertainment Ave., Suite 410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products. &nbsp;<br>&nbsp;The thoughts and opinions expressed here are those of the seller(s) alone and do not necessarily reflect the views of Click Sales, Inc., its parents, subsidiaries or affiliates. The products, information, and other content provided by this seller are provided for informational purposes only. In the event of any problem with products that customers purchase through this seller, customers agree that their sole remedy is from the seller, if any, in accordance with any seller warranties and/or seller refund policy. &nbsp;<br>The information presented on page or inside the Next Survivor HAVE NOT been reviewed by the FDA or any other government institution, and NEVER should be held as a replacement for professional help and assistance! You are using the Next Survivor guide at your own risk!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "12px"
             }
           }
         }
