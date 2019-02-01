@@ -102,7 +102,7 @@
               "active": true,
               "src": "https://www.youtube.com/embed/4QlI0HItZMs",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
