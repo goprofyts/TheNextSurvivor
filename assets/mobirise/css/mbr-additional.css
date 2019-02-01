@@ -144,6 +144,8 @@
 
 
 
+
+
 #ext_menu-m .navbar-toggler {
   color: #000;
 }
@@ -205,4 +207,14 @@
 }
 #features1-v .btn {
   font-family: 'Noto Sans', sans-serif;
+}
+#form1-w .mbr-section-title {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 48px;
+  color: #ffffff;
+}
+#content5-x P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 12px;
 }
