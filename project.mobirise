@@ -767,7 +767,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT US",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message</a>",
           "form": {
             "action": "thenextsurvivor@gmail.com",
             "alerts": {
