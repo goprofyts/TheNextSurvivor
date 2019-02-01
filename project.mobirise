@@ -66,8 +66,13 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
@@ -888,8 +893,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
@@ -1189,9 +1198,9 @@
             }
           },
           "title1": "Bootstrap 3",
-          "caption1": "http://zzzzz.mylbb.hop.clickbank.net\n<br>\n<br>Replace \"zzzzz\" with your ClickBank ID.\n<br>\n<br>Click <b>HERE</b> to sign up to ClickBank",
+          "caption1": "http://zzzzz.mylbb.hop.clickbank.net\n<br>\n<br>Replace \"zzzzz\" with your ClickBank ID.\n<br>\n<br>Click <b><a href=\"http://mylbb.jmap.clickbank.net/\" target=\"_blank\">HERE</a></b> to sign up to ClickBank",
           "title2": "Responsive",
-          "caption2": "http://zzzzz.opfkitnex.c2strack.com\n<br>\n<br>Replace \"zzzzz\" with your Click2Sell ID.\n<br>\n<br>Click <b>HERE</b> to sign up to Click2Sell (Instant approval)",
+          "caption2": "http://zzzzz.opfkitnex.c2strack.com\n<br>\n<br>Replace \"zzzzz\" with your Click2Sell ID.\n<br>\n<br>Click <b><a href=\"https://www.click2sell.eu/signup-click2sell.html\" target=\"_blank\">HERE</a></b> to sign up to Click2Sell (Instant approval)",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
