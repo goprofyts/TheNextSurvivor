@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+
+
+
+
+
+
+
+
+#ext_menu-3 .navbar-toggler {
+  color: #000;
+}
+#msg-box5-2 .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box5-2 .mbr-section-title B {
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-8 P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 24px;
+}
+#content4-4 H4 {
+  font-family: 'Noto Sans', sans-serif;
+  color: #d40000;
+}
+#content4-4 P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content5-a P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#msg-box4-b .lead P {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
+}
