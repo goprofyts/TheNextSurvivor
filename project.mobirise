@@ -8,13 +8,16 @@
       "styling": {},
       "additionalSetColors": [
         "#d40000",
-        "#ff1616"
+        "#ff1616",
+        "#1d1d1d",
+        "#4d4d4d",
+        "#fffa47"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 19,
     "versionPublish": "4.9.1"
   },
   "pages": {
@@ -82,7 +85,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/creepy-3659001-1920-1920x1280.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
@@ -142,7 +145,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -184,7 +187,7 @@
             "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -230,7 +233,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -262,13 +265,13 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#4d4d4d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -277,14 +280,29 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Easy to Use!",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "KNOW WHAT TO DO, AND ACT FAST!",
+          "caption": "<p>THE STORY OF 3 AMERICAN HEROES WHO THWARTED A PARIS TRAIN ATTACK!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-c"
+          "_anchor": "content5-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#fffa47",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -308,7 +326,7 @@
             },
             "overlay": false,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -352,27 +370,341 @@
         },
         {
           "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
-              "width": 1400
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/4QlI0HItZMs",
-              "autoplay": "on",
-              "loop": false
-            }
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
           },
-          "text": "Cut down the development time with drag-and-drop website builder.",
+          "title": "THE NEXT SURVIVOR GUIDE\n",
+          "caption": "<p>THE NEXT SURVIVOR IS THE ULTIMATE SURVIVAL GUIDE THAT WILL PREPARE YOU TO THE MOST DANGEROUS SCENARIOS THAT YOU MIGHT FACE IN YOUR LIFE, SO YOU WILL <b>KNOW WHAT TO DO AND ACT FAST</b>!\n</p><p>YOU WILL LEARN HOW TO BECOME A SURVIVOR AND A HONORED HERO, INSTEAD OF ENDING UP A MOURNED VICTIM!\n</p><p><b>WE HAVE MADE THREE SECTIONS INSIDE THE GUIDE:\n</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "video1",
-          "_anchor": "video1-0"
+          "_name": "content5",
+          "_anchor": "content5-d",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#d40000",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/basic-skills-640x426.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BASIC NEEDS &amp; SKILLS\n",
+          "text": "<p><b>THESE ARE THE THINGS AND SKILLS ANY SURVIVOR MUST KNOW AND MASTER, TO MENTION:\n</b></p><p>-HOW TO MAKE THE PERFECT FIRST AID KIT\n<br><span style=\"font-size: 1.25rem;\">-HOW TO START A FIRE USING DIFFERENT PRIMITIVE AND MODERN TECHNIQUES&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO COLLECT WATER&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO BUILD A SHELTER IN THE WILDERNESS OR IN THE SNOW&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO FIND DIRECTIONS OUTDOOR&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-...</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-e",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#d40000",
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/special-skills-640x426.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SURVIVAL TECHNIQUES\n",
+          "text": "<p><b>DIFFERENT LIFE THREATENING SCENARIOS YOU MIGHT FIND YOURSELF IN, AND HOW TO REACT TO THEM SO YOU SAVE YOURSELF AND YOU SAVE OTHERS.</b></p><p>-HOW TO ACT IN A MASS SHOOTING AND SAVE YOURSELF &amp; EVERYONE ELSE\r<br><span style=\"font-size: 1.25rem;\">-HOW TO ESCAPE A PLANE CRASH&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO SURVIVE A BEAR ATTACK&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO ESCAPE A HOUSE FIRE &amp; SAVE YOUR FAMILY &nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO SURVIVE DIFFERENT NATURAL DISASTERS&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-...</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#d40000",
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/special-skills-640x426.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SPECIAL SKILLS",
+          "text": "<p><b>THESE ARE THE SKILLS THAT WILL MAKE YOU AN UNSTOPPABLE SURVIVOR!</b></p><p>-HOW TO JUMP FROM ROOFTOP  TO ROOFTOP\n<br><span style=\"font-size: 1.25rem;\">-HOW TO KNOCK DOWN JAMMED DOORS&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO STOP A MAJOR BLEEDING&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO TRACK ANIMALS&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO PERFORM A FIREMAN CARRY&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-HOW TO PERFECTLY HIDE IN NATURE (CAMOUFLAGE)&nbsp;<br></span><span style=\"font-size: 1.25rem;\">-ETC...</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "color": "#d40000",
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1d1d1d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "DOWNLOAD THE NEXT SURVIVOR GUIDE",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fffa47",
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "14",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/web-design-1953-1920x1254.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/next-survivor-ebook-cover-370x558.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p>GET THE NEXT SURVIVOR NOW!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "24px"
+            }
+          }
         }
       ]
     }
