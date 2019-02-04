@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Next Survivor",
-    "currentPage": "Next-Survivor-C2S.html",
+    "currentPage": "Affiliates.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 38,
+    "uniqCompNum": 22,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ns-favicon-2018-80x79.png",
