@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Next Survivor",
-    "currentPage": "Affiliates.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -662,7 +662,7 @@
             "inverse": true,
             "imageSize": "14",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/web-design-1953-1920x1254.jpg",
             "parallax": true,
@@ -704,7 +704,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://2.mylbb.pay.clickbank.net\" data-toolbar=\"-mbrBtnMove\">GET MY COPY NOW</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://2.mylbb.pay.clickbank.net\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>GET MY COPY NOW</a>  ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-i",
           "_styles": {
