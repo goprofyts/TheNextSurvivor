@@ -151,19 +151,20 @@
   font-family: 'Noto Sans', sans-serif;
   color: #d40000;
 }
-#content5-r .mbr-section-title {
+#content5-m .mbr-section-title {
   text-align: center;
   font-family: 'Noto Sans', sans-serif;
   font-size: 46px;
   color: #ff7522;
 }
-#content5-r .mbr-section-title B {
+#content5-m .mbr-section-title B {
   font-size: 36px;
-  color: #ff1616;
+  color: #d9534f;
 }
-#content5-r P {
+#content5-m P {
   text-align: center;
   font-family: 'Noto Sans', sans-serif;
+  color: #000000;
 }
 #content5-t .mbr-section-title {
   text-align: center;
