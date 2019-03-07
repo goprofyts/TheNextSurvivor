@@ -1054,8 +1054,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "<b>$50,000 Monthly Contest + Daily $100 Bonus\n</b>",
-          "caption": "<p>Our top 10 affiliates of the month will receive each a $5,000 of cash.*</p><p><span style=\"font-size: 1.25rem;\">To be eligible for these contests you </span><b style=\"font-size: 1.25rem;\"><a href=\"https://form.myjotform.com/90063346578563\" target=\"_blank\">MUST SIGN UP HERE</a></b><span style=\"font-size: 1.25rem;\">!</span><br></p>",
+          "title": "<b>$50,000 Monthly Contest</b>",
+          "caption": "<p>Our top 10 affiliates of the month will receive each a $5,000 of cash.*</p><p><span style=\"font-size: 1.25rem;\">To be eligible for this contest you </span><b style=\"font-size: 1.25rem;\"><a href=\"https://form.myjotform.com/90063346578563\" target=\"_blank\">MUST SIGN UP HERE</a></b><span style=\"font-size: 1.25rem;\">!</span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
