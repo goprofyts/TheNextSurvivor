@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Next Survivor",
-    "currentPage": "CB.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "versionFirst": "4.9.1",
     "siteFonts": [],
     "uniqCompNum": 22,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ns-favicon-2018-80x79.png",
     "noImageResize": "",
@@ -131,7 +131,7 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=4QlI0HItZMs",
+              "src": "https://www.youtube.com/watch?v=cedTwivgDjI",
               "autoplay": "on",
               "loop": false,
               "active": true
@@ -676,7 +676,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/next-survivor-ebook-cover-370x558.png",
+              "src": "@PROJECT_PATH@/assets/images/book-mockup-609x609.png",
               "link": "",
               "alt": "",
               "title": ""
