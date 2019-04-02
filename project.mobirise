@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ns-favicon-2018-80x79.png",
@@ -694,7 +694,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p><b>GET THE NEXT SURVIVOR NOW!</b></p><p><b>LIMITED-TIME $60 OFF!</b><br><i>Original Price: $97.00<br></i><b>Current Price: $37 ONLY!</b></p>",
+          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p><b>GET THE NEXT SURVIVOR NOW!</b></p><p><b>LIMITED-TIME $66 OFF!</b><br><i>Original Price: $97.00<br></i><b>Current Price: $31 ONLY!</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -755,6 +755,70 @@
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
               "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#a7b0c3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/55589307-554449725077363-5907340899871883264-n-960x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "About the author",
+          "text": "<p>My name is Hadi Dabbabi and I'm living in Tunisia, I hold an engeneering degree in agronmy, and I've been always interested in science in technology. I like adventure and sports, and always on the lookout for new challenges.</p><p>What made me creating the Next Survivor guide is how shocking the number of casualties from different tragedies that we hear about everyday on the news! And it's sad to know that these high numbers could be reduced if the victims did not act wreckly or did know how to react properly.</p><p>I did my best to search for ideas that could help people in case of life threatening situations. Of course the guide connot cover every single life dangerous scenario, as this will need a whole library, but it has a quite number of common situations and how to react properly to save &nbsp;your life and save others.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
             }
           }
         },

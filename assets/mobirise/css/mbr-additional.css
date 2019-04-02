@@ -119,6 +119,12 @@
   font-family: 'Noto Sans', sans-serif;
   font-size: 24px;
 }
+#msg-box4-m .mbr-section-title {
+  text-align: left;
+}
+#msg-box4-m .lead P {
+  text-align: left;
+}
 #form1-k .mbr-section-title {
   font-family: 'Noto Sans', sans-serif;
   font-size: 48px;
