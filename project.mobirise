@@ -1550,7 +1550,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/NextSurvivor.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Nextsurvivor.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-o"
         },
