@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Next Survivor",
-    "currentPage": "index.html",
+    "currentPage": "Next-Survivor-C2S.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -3013,7 +3013,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p><b>GET THE NEXT SURVIVOR NOW!</b></p><p><b>LIMITED-TIME $66 OFF!</b><br><i>Original Price: $97.00<br></i><b>Current Price: $31 ONLY!</b></p>",
+          "text": "<p>THE NEXT SURVIVOR GUIDE IS AN EBOOK THAT YOU CAN DOWNLOAD INSTANTLY TO ANY DEVICE. IT REQUIRES NO INTERNET CONNECTION TO USE AND YOU DON'T HAVE TO WAIT FOR A PHYSICAL BOOK TO BE SHIPPED TO YOU!\n</p><p>PART OF SURVIVAL IS BEING PRACTICAL, AND CARRYING A BOOK WITH YOU EVERYWHERE IS NOT! HAVING AN ELECTRONIC GUIDE INSTALLED ON YOUR PHONE OR TABLET IS!\n</p><p><b>GET THE NEXT SURVIVOR NOW!</b></p><p><b>LIMITED-TIME $60 OFF!</b><br><i>Original Price: $97.00<br></i><b>Current Price: $37 ONLY!</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
